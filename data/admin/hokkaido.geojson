@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"id":"hokkai_sapporo","name":"札幌市"},"geometry":{"type":"Polygon","coordinates":[[[141.15,42.95],[141.55,42.95],[141.55,43.15],[141.15,43.15],[141.15,42.95]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_otaru","name":"小樽市"},"geometry":{"type":"Polygon","coordinates":[[[140.85,43.05],[141.10,43.05],[141.10,43.30],[140.85,43.30],[140.85,43.05]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_asahikawa","name":"旭川市"},"geometry":{"type":"Polygon","coordinates":[[[142.15,43.60],[142.55,43.60],[142.55,43.90],[142.15,43.90],[142.15,43.60]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_hakodate","name":"函館市"},"geometry":{"type":"Polygon","coordinates":[[[140.55,41.60],[140.95,41.60],[140.95,41.90],[140.55,41.90],[140.55,41.60]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_obihiro","name":"帯広市"},"geometry":{"type":"Polygon","coordinates":[[[143.00,42.80],[143.40,42.80],[143.40,43.05],[143.00,43.05],[143.00,42.80]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_kushiro","name":"釧路市"},"geometry":{"type":"Polygon","coordinates":[[[144.10,42.85],[144.60,42.85],[144.60,43.15],[144.10,43.15],[144.10,42.85]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_tomakomai","name":"苫小牧市"},"geometry":{"type":"Polygon","coordinates":[[[141.45,42.50],[141.80,42.50],[141.80,42.80],[141.45,42.80],[141.45,42.50]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_kitami","name":"北見市"},"geometry":{"type":"Polygon","coordinates":[[[143.60,43.55],[144.20,43.55],[144.20,44.00],[143.60,44.00],[143.60,43.55]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_noboribetsu","name":"登別市"},"geometry":{"type":"Polygon","coordinates":[[[141.00,42.35],[141.25,42.35],[141.25,42.50],[141.00,42.50],[141.00,42.35]]]}},
+    {"type":"Feature","properties":{"id":"hokkai_asahikawa2","name":"東神楽町"},"geometry":{"type":"Polygon","coordinates":[[[142.30,43.65],[142.45,43.65],[142.45,43.80],[142.30,43.80],[142.30,43.65]]]} }
+  ]
+}
+
